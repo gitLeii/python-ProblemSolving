@@ -1,7 +1,7 @@
 # Declare second integer, double, and String variables.
-j = int(input())
+j = int(input().strip())
 # Read and save an integer, double, and String to your variables.
-e = float(input())
+e = float(input().strip())
 t = input()
 # Print the sum of both integer variables on a new line.
 print(int(i+j))
